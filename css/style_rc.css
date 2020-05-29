@@ -78,7 +78,7 @@ input[type="number"] {
 }
 
 #title_result {
-	margin-top: 40px;
+	margin-top: 140px;
 }
 
 #result {
@@ -106,7 +106,7 @@ input[type="number"] {
 }
 
 img {
-	display: block;
+	display: none;
 	margin: auto;
 	margin-bottom: 3px;
 	width: 30px;
