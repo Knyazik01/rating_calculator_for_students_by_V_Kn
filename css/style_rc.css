@@ -18,7 +18,7 @@ body{
 	color: firebrick;
 	font-size: 32px;
 	font-family: 'Dancing Script', cursive;
-	text-shadow: 0.7px 0.7px 5px white;
+	text-shadow: 0.7px 0.7px 2px white;
 }
 
 .calc_body {
@@ -78,7 +78,7 @@ input[type="number"] {
 }
 
 #title_result {
-	margin-top: 140px;
+	margin-top: 70px;
 }
 
 #result {
