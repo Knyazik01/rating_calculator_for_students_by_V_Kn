@@ -1,6 +1,6 @@
 body{
 	background: url('../pictures/bg-img.jpg') no-repeat center;
-	background-size: cover; /* Масштабируем фон */
+	background-size: cover; 
 	margin: 0;
 	padding: 0;
 }
@@ -78,7 +78,7 @@ input[type="number"] {
 }
 
 #title_result {
-	margin-top: 70px;
+	margin-top: 70px; /* margin-top: 40px; */
 }
 
 #result {
@@ -106,7 +106,7 @@ input[type="number"] {
 }
 
 img {
-	display: none;
+	display: none; /* display: block;*/
 	margin: auto;
 	margin-bottom: 3px;
 	width: 30px;
